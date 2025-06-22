@@ -1,0 +1,56 @@
+├─ 📁 archives/
+│  ├─ 📄 ARCH2.bz2 — application/x-bzip2 (bzip2 compressed data, block size = 900k)
+│  ├─ 📄 arch.7z — application/x-7z-compressed (7-zip archive data, version 0.4)
+│  ├─ 📄 arch3.zip — application/zip (Zip archive data, at least v2.0 to extract)
+│  └─ 📄 notes.jar — video/x-msvideo (RIFF (little-endian) data, AVI, 1280 x 720, 30.00 fps, video: Motion JPEG, audio: uncompressed PCM (stereo, 48000 Hz))
+├─ 📁 docs/
+│  ├─ 📄 Chairing_Guidelines.doc — application/msword (Composite Document File V2 Document, Little Endian, Os: Windows, Version 6.1, Code page: 1252, Title: How to Chair a Meeting Effectively, Author: lyn.black, Template: Normal, Last Saved By: DaveS, Revision Number: 2, Name of Creating Application: Microsoft Office Word, Total Editing Time: 01:00, Create Time/Date: Thu Oct 11 12:28:00 2012, Last Saved Time/Date: Thu Oct 11 12:28:00 2012, Number of Pages: 3, Number of Words: 977, Number of Characters: 5570, Security: 4)
+│  ├─ 📄 Meeting-agenda-template.docx — application/vnd.openxmlformats-officedocument.wordprocessingml.document (Microsoft Word 2007+)
+│  ├─ 📄 meeting-checklist-template.docx — application/vnd.openxmlformats-officedocument.wordprocessingml.document (Microsoft Word 2007+)
+│  ├─ 📄 meeting_staff.doc — image/webp (RIFF (little-endian) data, Web/P image)
+│  └─ 📁 more/
+│     └─ 📁 docs/
+│        └─ 📁 in/
+│           └─ 📁 here/
+│              ├─ 📄 How to Survive a meeting.doc — application/msword (Composite Document File V2 Document, Little Endian, Os: Windows, Version 5.1, Code page: 1252, Title: How to Survive a meeting, Author: civiced, Template: Normal, Last Saved By: dodgej, Revision Number: 2, Name of Creating Application: Microsoft Office Word, Last Printed: Tue Aug  7 15:22:00 2007, Create Time/Date: Wed Aug 17 15:18:00 2011, Last Saved Time/Date: Wed Aug 17 15:18:00 2011, Number of Pages: 1, Number of Words: 3489, Number of Characters: 19891, Security: 0)
+│              └─ 📄 how-to-conduct-a-meeting-2.docx — application/vnd.openxmlformats-officedocument.wordprocessingml.document (Microsoft Word 2007+)
+├─ 📁 fun/
+│  ├─ 📄 1711922908449.jpg — image/jpeg (JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1080x720, frames 3)
+│  ├─ 📄 62fbe39b1c30c95b2cc78f2b_LB0250..png — image/png (PNG image data, 1280 x 851, 8-bit colormap, non-interlaced)
+│  ├─ 📄 AdobeStock_407607989-scaled.jpeg — image/jpeg (JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 2560x1984, frames 3)
+│  ├─ 📄 business-meeting.jpg — image/jpeg (JPEG image data, Exif standard: [TIFF image data, little-endian, direntries=1, copyright=Jacob Ammentorp Lund], baseline, precision 8, 1000x667, frames 3)
+│  ├─ 📄 images (1).jpg — image/jpeg (JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 275x183, frames 3)
+│  ├─ 📄 images.jpg — image/jpeg (JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 275x183, frames 3)
+│  ├─ 📄 leading-a-meeting-1024x683.jpg.optimal.jpg — image/jpeg (JPEG image data, JFIF standard 1.01, aspect ratio, density 1x1, segment length 16, progressive, precision 8, 1024x683, frames 3)
+│  ├─ 📄 stock_photo.png — application/vnd.openxmlformats-officedocument.wordprocessingml.document (Microsoft Word 2007+)
+│  └─ 📄 types-of-meetings.webp — image/webp (RIFF (little-endian) data, Web/P image)
+├─ 📁 music/
+│  ├─ 📄 emotional_music_561.mp3 — application/x-dosexec (PE32 executable (GUI) Intel 80386, for MS Windows)
+│  ├─ 📄 eona-emotional-ambient-pop-351436.mp3 — audio/mpeg (MPEG ADTS, layer III, v1, 256 kbps, 44.1 kHz, JntStereo)
+│  ├─ 📄 future-design-344320.mp3 — audio/mpeg (MPEG ADTS, layer III, v1, 256 kbps, 44.1 kHz, JntStereo)
+│  └─ 📄 jungle-waves-drumampbass-electronic-inspiring-promo-345013.mp3 — audio/mpeg (MPEG ADTS, layer III, v1, 256 kbps, 44.1 kHz, JntStereo)
+├─ 📁 presentations/
+│  ├─ 📄 1 Setup.pptx — application/vnd.openxmlformats-officedocument.presentationml.presentation (Microsoft PowerPoint 2007+)
+│  ├─ 📄 AWKUM-offical-PowerPoint-Template.pptx — application/vnd.openxmlformats-officedocument.presentationml.presentation (Microsoft PowerPoint 2007+)
+│  ├─ 📄 CCB_MeetingMgmt.ppt — application/vnd.ms-powerpoint (Composite Document File V2 Document, Little Endian, Os: Windows, Version 5.1, Code page: 1252, Title: Meeting Management, Author: BBED, Template: Sharon Template C, Last Saved By: GNL, Revision Number: 103, Name of Creating Application: Microsoft PowerPoint, Total Editing Time: 11:49:01, Last Printed: *Bad* 0x29b92700383d24fb, Create Time/Date: *Bad* 0x3807430037a0158c, Last Saved Time/Date: *Bad* 0x1b2e02004fdf171a, Number of Words: 702)
+│  ├─ 📄 Firefighter-Silhouette-PowerPoint-Diagram.pptx — application/vnd.openxmlformats-officedocument.presentationml.presentation (Microsoft PowerPoint 2007+)
+│  ├─ 📄 JS2-Mod1.pptx — application/vnd.openxmlformats-officedocument.presentationml.presentation (Microsoft PowerPoint 2007+)
+│  ├─ 📄 planning_call_meeting.ppt — application/x-dosexec (PE32 executable (DLL) (console) Intel 80386, for MS Windows)
+│  ├─ 📄 samplepptx.pptx — application/vnd.openxmlformats-officedocument.presentationml.presentation (Microsoft PowerPoint 2007+)
+│  └─ 📄 slide-zoom-powerpoint-template.pptx — application/zip (Zip archive data, at least v2.0 to extract)
+├─ 📁 unknown/
+│  ├─ 📄 file1 — application/zip (Zip archive data, at least v2.0 to extract)
+│  ├─ 📄 file2 — image/jpeg (JPEG image data, JFIF standard 1.01, resolution (DPI), density 300x300, segment length 16, progressive, precision 8, 2560x1984, frames 3)
+│  ├─ 📄 file3 — application/x-dosexec (PE32+ executable (GUI) x86-64, for MS Windows)
+│  ├─ 📄 file4 — application/x-dosexec (PE32 executable (DLL) (console) Intel 80386, for MS Windows)
+│  ├─ 📄 file5 — text/plain (ASCII text, with CRLF line terminators)
+│  ├─ 📄 file6 — text/plain (ASCII text, with CRLF line terminators)
+│  ├─ 📄 file7 — application/octet-stream (data)
+│  ├─ 📄 file8 — application/octet-stream (data)
+│  └─ 📄 file9 — application/octet-stream (data)
+└─ 📁 videos/
+   ├─ 📄 COWS_AT_THE_GRASS.mp4 — video/mp4 (ISO Media, MP4 v2 [ISO 14496-14])
+   ├─ 📄 Good_dog.mp4 — video/mp4 (ISO Media, MP4 v2 [ISO 14496-14])
+   ├─ 📄 MVI_2350.mov — video/quicktime (ISO Media, Apple QuickTime movie, Apple QuickTime (.MOV/QT))
+   ├─ 📄 bear_fun.mp4 — application/x-dosexec (PE32+ executable (GUI) x86-64, for MS Windows)
+   └─ 📄 waterfall2.avi — video/x-msvideo (RIFF (little-endian) data, AVI, 1920 x 1080, video: uncompressed XviD)
